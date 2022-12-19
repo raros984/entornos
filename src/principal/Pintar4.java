@@ -8,6 +8,8 @@ Scanner scanner;
 public static void main(String[] args) {
 
 Scanner scanner = new Scanner(System.in);
+
+//prueba entornos
 //System.out.println(); Lo ponemos para indicarle a el usuario que use el programa que tiene q hacer
 
 int max = scanner.nextInt();
